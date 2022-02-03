@@ -8,5 +8,5 @@ My name is JP. I am pursuing a path as a software developer. I am driven by curi
 
 🧗‍♂️ It was a bit winding. I'm on the road.  🚴‍♂️
 
-🛸 Please feel free to email 📮 jiapei.li@outlook.com, connect with me 🌏 https://www.linkedin.com/in/lijiapei/, or visit my website: 🧿 www.jiapeili.net
+🛸 Please feel free to email me 📮 jiapei.li@outlook.com, connect me 🌏 https://www.linkedin.com/in/lijiapei/, or visit my website: 🧿 www.jiapeili.net
 ⭐️ I'm excited to connect with you! ⭐️
