@@ -6,9 +6,7 @@ My name is JP. I am pursuing a path as a software developer. I am driven by curi
 
 👔 I have professional experience working as a product developer at a core R&D team. I plan ahead of schedule, listen carefully, deliver quality work, look for alternative approaches. I have records of being a collaborative, responsible and contributing team member. 
 
-💡 A wonderful product speaks for itself. I always keep in mind and value the efficiencies, interfaces and its engagements between technologies and users. 
-
 🧗‍♂️ It was a bit winding. I'm on the road.  🚴‍♂️
 
-🛸 Please feel free to contact me at 📮 jiapei.li@outlook.com, or visit my website: 🧿 www.jiapeili.net
+🛸 Please feel free to contact me at 📮 jiapei.li@outlook.com, 🌏 https://www.linkedin.com/in/lijiapei/, or visit my website: 🧿 www.jiapeili.net
 ⭐️ I'm excited to connect with you! ⭐️
