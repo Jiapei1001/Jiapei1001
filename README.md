@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Jiapei1001/Jiapei1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is JP. I am pursuing a path as a software developer. I am driven by curiosities. I believe in lifelong continuous learning.
 
-Here are some ideas to get you started:
+🧬 I'm proficient in Java, SQL, Go, Python. I build up foundational knowledge in Algorithms, Object Oriented Design & Programming, Database Management, Cloud Computing, Scalable Distributed Systems, Mobile App Development, Computer Vision, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👔 I have professional experience working as a product developer at a core R&D team. I plan ahead of schedule, listen carefully, deliver quality work, look for alternative approaches. I have records of being a collaborative, responsible and contributing team member. 
+
+💡 A wonderful product speaks for itself. I always keep in mind and value the efficiencies, interfaces and its engagements between technologies and users. 
+
+🧗‍♂️ It was a bit winding. I'm on the road.  🚴‍♂️
+
+🛸 Please feel free to contact me at 📮 jiapei.li@outlook.com, or visit my website: 🧿 www.jiapeili.net
+⭐️ I'm excited to connect with you! ⭐️
